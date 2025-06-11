@@ -25,10 +25,9 @@ I'm a passionate and driven software engineer with several years of experience i
 ---
 
 ## 💼 Work Experience
-
-- **Software Engineer** (2024–Present): Developing Flutter apps in an agile team with OCR and Firebase features.
-- **Lead Software Engineer** (2023–2024): Led a major cross-platform mobile project, focusing on CarPlay, Bluetooth, and multilingual documentation.
 - **Software Engineer** (2025): Coordinated the development of a scientific game app for behavioral analysis using Flutter Web and Docker.
+- **Software Engineer** (2024–2025): Developing Flutter apps in an agile team with OCR and Firebase features.
+- **Lead Software Engineer** (2023–2024): Led a major cross-platform mobile project, focusing on CarPlay, Bluetooth, and multilingual documentation.
 - **Software Engineer** (2022–2023): Built secure, multi-tenant mobile applications with KeyCloak, OpenAPI, and BLoC.
 - **Software Engineer** (2021–2022): Contributed to enterprise digitalization with native Android development and Oracle-to-SQLite migration.
 - **Software Developer** (2021): Created a Firebase-connected time tracking app with CI/CD and Material Design.
